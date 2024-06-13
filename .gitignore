@@ -18,3 +18,4 @@ shiny_binning_data.csv
 *.csv
 *.csv
 *.Rproj*.Rproj
+*.Rproj
