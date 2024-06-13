@@ -1,0 +1,11 @@
+name: Frame_Rate_App
+title: Frame_Rate_App
+username:
+account: i4fzvw-adam-bramlett
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10574082
+bundleId: 8735186
+url: https://adam-a-bramlett.shinyapps.io/Frame_Rate_App/
+asMultiple: FALSE
+asStatic: FALSE

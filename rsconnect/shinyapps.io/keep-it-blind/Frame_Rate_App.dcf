@@ -1,0 +1,13 @@
+name: Frame_Rate_App
+title: Frame_Rate_App
+username:
+account: keep-it-blind
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10622673
+bundleId: 7967079
+url: https://keep-it-blind.shinyapps.io/Frame_Rate_App/
+when: 1700888477.98346
+lastSyncTime: 1700888477.98347
+asMultiple: FALSE
+asStatic: FALSE
