@@ -17,3 +17,4 @@ AoW.gitignore.txt
 shiny_binning_data.csv
 *.csv
 *.csv
+*.Rproj
